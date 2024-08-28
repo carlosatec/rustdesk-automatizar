@@ -1,2 +1,3 @@
-# rustdesk-automatizar
-Automação para instalação do RustDesk para um Self-Hosting
+# Automatizar instalação RustDesk para Seft-Hosting
+
+Olá ! Siga os passos para automatizar sua instalação do RustDesk.
